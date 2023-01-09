@@ -1,0 +1,1 @@
+- [Установка prometheus/node_exporter на Ubuntu](install_node_exporter_ubuntu.md)

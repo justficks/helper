@@ -37,3 +37,14 @@ docker image ls
 ```
 docker run imageName --network="proxy"
 ```
+
+## Соединение восстановленного бэкапа с docker-compose.yml
+
+1. Запускаем.
+
+```
+docker image ls
+```
+
+2. Находим image который мы подгрузили из бэкапа
+3. Меняем поле image в docker-compose.yml

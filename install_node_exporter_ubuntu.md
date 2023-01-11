@@ -54,25 +54,31 @@ WantedBy=multi-user.target
 cp node_exporter.service /etc/systemd/system
 ```
 
-10. Запускаем:
+10. Копируем бинарник node_exporter в нужную директорию:
+
+```
+cp ./node_exporter-1.5.0.linux-amd64/node_exporter /usr/local/bin/node_exporter
+```
+
+11. Запускаем:
 
 ```
 systemctl start node_exporter.service
 ```
 
-11. Проверяем статус:
+12. Проверяем статус:
 
 ```
 systemctl status node_exporter.service
 ```
 
-12. Если всё в порядке и статус сервиса active, то включаем автозапуск node_exporter вместе с системой:
+13. Если всё в порядке и статус сервиса active, то включаем автозапуск node_exporter вместе с системой:
 
 ```
 systemctl enable node_exporter.service
 ```
 
-13. После запуска, node_exporter шарит 9100 порт. И после команды:
+14. После запуска, node_exporter шарит 9100 порт. И после команды:
 
 ```
 netstat -tulpn | grep 9100
@@ -84,7 +90,7 @@ netstat -tulpn | grep 9100
 tcp6 0 0 :::9100 :::* LISTEN 65510/node_exporter
 ```
 
-14. Последняя проверка - это http запрос на получение метрик:
+15. Последняя проверка - это http запрос на получение метрик:
 
 ```
 http://serverip:9100/metrics

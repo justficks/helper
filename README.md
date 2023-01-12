@@ -1,3 +1,4 @@
 - [Установка prometheus/node_exporter на Ubuntu](install_node_exporter_ubuntu.md)
 - [Backup & Restore docker container](backup_restore_docker_container.md)
 - [Gmail + Cloudflare. Отправка писем от лица почты с cloudflare](send_email_from_cloudflare_domain_email.md)
+- [Custom queries for postgres_exporter replication status](custom_queries_postgres_exporter.md)

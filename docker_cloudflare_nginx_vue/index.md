@@ -1,4 +1,4 @@
-[На главную](README.md)
+[На главную](../README.md)
 
 ## Запуск сайта Docker\Cloudflare\nginx\remoteServer\Vue\Nuxt
 

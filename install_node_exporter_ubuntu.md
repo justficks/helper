@@ -1,3 +1,5 @@
+[На главную](README.md)
+
 1. Подключаемся к серверу
 2. Заходим [официальный репозиторий github prometheus/node_exporter](https://github.com/prometheus/node_exporter/releases/tag/v1.5.0)
 3. Копируем ссылку на скачиваени последнего релиза под amd. Пример:

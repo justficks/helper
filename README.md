@@ -4,3 +4,4 @@
 - [Custom queries for postgres_exporter replication status](custom_queries_postgres_exporter.md)
 - [nestjs-telegraf mongo session middleware](telegraf_nestjs_saving_session_mogoose.md)
 - [Полезные ссылки](useful_links.md)
+- [Docker Cloudflare Nginx Vue](docker_cloudflare_nginx_vue/index.md)

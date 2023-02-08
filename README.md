@@ -5,3 +5,4 @@
 - [nestjs-telegraf mongo session middleware](telegraf_nestjs_saving_session_mogoose.md)
 - [Полезные ссылки](useful_links.md)
 - [Docker Cloudflare Nginx Vue](docker_cloudflare_nginx_vue/index.md)
+- [Установка nut и nut_exporter для мониторинга UPS](nut_ups_exporter.md)

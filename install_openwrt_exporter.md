@@ -79,3 +79,10 @@ netstat -tulpn | grep 9100
 curl 10.8.1.2:9100/metrics
 # Выведет все текущие метрики. Их будет много
 ```
+
+---
+
+Ссылки на источники
+
+- (09.02.2023) https://grafana.com/blog/2021/02/09/how-i-monitor-my-openwrt-router-with-grafana-cloud-and-prometheus/
+- (09.02.2023) https://www.cloudrocket.at/posts/monitor-openwrt-nodes-with-prometheus/

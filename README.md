@@ -7,3 +7,4 @@
 - [Docker Cloudflare Nginx Vue](docker_cloudflare_nginx_vue/index.md)
 - [Установка nut и nut_exporter для мониторинга UPS](nut_ups_exporter.md)
 - [Установка node_exporter на openwrt](install_openwrt_exporter.md)
+- [PostgreSQL replication cluster](./postgres_replication/index.md)

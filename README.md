@@ -9,3 +9,4 @@
 - [Установка node_exporter на openwrt](install_openwrt_exporter.md)
 - [PostgreSQL replication cluster](./postgres_replication/index.md)
 - [Install 1c with postgresql](./1c_install/README.md)
+- [Установка ddns-script-cloudflare на роутер с OpenWRT на борту](https://alexskra.com/blog/dynamc-dnsddns-with-openwrt-and-cloudflare/)

@@ -10,3 +10,13 @@
 - [PostgreSQL replication cluster](./postgres_replication/index.md)
 - [Install 1c with postgresql](./1c_install/README.md)
 - [Установка ddns-script-cloudflare на роутер с OpenWRT на борту](https://alexskra.com/blog/dynamc-dnsddns-with-openwrt-and-cloudflare/)
+
+---
+
+### Useful links
+- [Story in phone](https://jitter.video/file/?id=1630492212156-KnupIE6u)
+- [debuggex.com](https://www.debuggex.com/r/PMgoUzVGioUJs2Ef)
+- [icon-sets.iconify.design](https://icon-sets.iconify.design/)
+- [wg-easy](https://github.com/WeeJeWel/wg-easy)
+- [SimpleWebAuthn авторизация по биометрии](https://github.com/MasterKale/SimpleWebAuthn)
+- [Модульное тестирование NestJS](https://evogeek.ru/articles/141534/)

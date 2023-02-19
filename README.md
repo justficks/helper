@@ -10,6 +10,7 @@
 - [PostgreSQL replication cluster](./postgres_replication/index.md)
 - [Install 1c with postgresql](./1c_install/README.md)
 - [Установка ddns-script-cloudflare на роутер с OpenWRT на борту](https://alexskra.com/blog/dynamc-dnsddns-with-openwrt-and-cloudflare/)
+- [Если pg_dump, psql выводят "command not found" или каталог с бинарниками в $PATH](https://baks.dev/article/terminal/how-to-add-a-directory-to-path-in-linux)
 
 ---
 

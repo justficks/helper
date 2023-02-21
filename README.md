@@ -10,6 +10,7 @@
 - [PostgreSQL replication cluster](./postgres_replication/index.md)
 - [Install 1c with postgresql](./1c_install/README.md)
 - [Бэкап графаны](./backup_grafana.md)
+- [Смена пароля у admin в Grafana](./edit_grafana_admin_password.md)
 ---
 
 ### Useful links

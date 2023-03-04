@@ -22,3 +22,4 @@
 - [Модульное тестирование NestJS](https://evogeek.ru/articles/141534/)
 - [Если pg_dump, psql выводят "command not found" или каталог с бинарниками в $PATH](https://baks.dev/article/terminal/how-to-add-a-directory-to-path-in-linux)
 - [Установка ddns-script-cloudflare на роутер с OpenWRT на борту](https://alexskra.com/blog/dynamc-dnsddns-with-openwrt-and-cloudflare/)
+- [Грокаем алгоритмы](https://github.com/egonschiele/grokking_algorithms)

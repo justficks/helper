@@ -23,3 +23,4 @@
 - [Если pg_dump, psql выводят "command not found" или каталог с бинарниками в $PATH](https://baks.dev/article/terminal/how-to-add-a-directory-to-path-in-linux)
 - [Установка ddns-script-cloudflare на роутер с OpenWRT на борту](https://alexskra.com/blog/dynamc-dnsddns-with-openwrt-and-cloudflare/)
 - [Грокаем алгоритмы](https://github.com/egonschiele/grokking_algorithms)
+- [Postgres Replication Slot](https://habr.com/ru/post/245847/)

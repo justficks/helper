@@ -9,6 +9,6 @@
 4. [Взаимодействие с собственным почтовым сервером](./interact_with_mailserver.md)
 
 Полезные ссылки:
-- [Проверка настроек dns записей](https://dmarcian.com/domain-checker/?domain=nepturio.com)
+- [Проверка настроек dns записей](https://dmarcian.com/domain-checker/)
 - [Подобная Инструкция](https://www.tune-it.ru/web/sky/blog/-/blogs/11777224)
 - [Пример настроек dns записей в cloudflare](https://developers.cloudflare.com/dns/manage-dns-records/how-to/email-records/)

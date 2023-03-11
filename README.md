@@ -11,6 +11,8 @@
 - [Install 1c with postgresql](./1c_install/README.md)
 - [Бэкап графаны](./backup_grafana.md)
 - [Смена пароля у admin в Grafana](./edit_grafana_admin_password.md)
+- [Установка собственного email-сервера с docker-mailserver и cloudflare](./own_mail_server/index.md)
+
 ---
 
 ### Useful links

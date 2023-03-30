@@ -28,3 +28,4 @@
 - [Грокаем алгоритмы](https://github.com/egonschiele/grokking_algorithms)
 - [Postgres Replication Slot](https://habr.com/ru/post/245847/)
 - [No-code конструктор сайтов](https://grapesjs.com/docs/#quick-start)
+- [Как использовать интернет через телефон на Mac](https://www.iguides.ru/blogs/lwmac/as-unlimited-access-to-mobile-internet-on-macos/)

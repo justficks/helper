@@ -30,3 +30,4 @@
 - [No-code конструктор сайтов](https://grapesjs.com/docs/#quick-start)
 - [Как использовать интернет через телефон на Mac](https://www.iguides.ru/blogs/lwmac/as-unlimited-access-to-mobile-internet-on-macos/)
 - [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
+- [minidlna домашний медиа сервер](https://habr.com/ru/articles/555212/)

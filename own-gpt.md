@@ -1,0 +1,10 @@
+- [Начало №1](https://habr.com/ru/news/t/723638/)
+- [Начало №2](https://habr.com/ru/news/t/725112/)
+- [Начало №3](https://dzen.ru/a/ZBmlsIEH5UfGo6B2)
+- [Dalai](https://cocktailpeanut.github.io/dalai/#/?id=dalai)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [Alpaca Training Data Instructions](https://atlas.nomic.ai/map/alpaca_instructions)
+- [Source llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [Как запустить llama.cpp](https://habr.com/ru/post/722780/)
+- [Source whisper.cpp (audio)](https://github.com/ggerganov/whisper.cpp)
+- FRED-T5 - нейросеть от Сбера

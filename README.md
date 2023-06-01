@@ -32,3 +32,4 @@
 - [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
 - [minidlna домашний медиа сервер](https://habr.com/ru/articles/555212/)
 - [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
+- [Software engineer](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)

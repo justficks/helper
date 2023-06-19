@@ -35,3 +35,4 @@
 - [Software engineer](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)
 - [roadmap.sh - Путь обучения и технологии](https://roadmap.sh)
 - [pactumJS - тестирование по всем фронтам](https://pactumjs.github.io)
+- [Когда не стоит использовать MongoDB](https://www.inconceptlabs.com/blog/when-not-to-use-mongodb)

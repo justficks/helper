@@ -34,3 +34,4 @@
 - [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
 - [Software engineer](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)
 - [roadmap.sh - Путь обучения и технологии](https://roadmap.sh)
+- [pactumJS - тестирование по всем фронтам](https://pactumjs.github.io)

@@ -8,6 +8,7 @@
 2. [Запуск docker-mailserver](./run_docker_mailserver.md)
 3. [Настройка dns записей cloudflare](./setup_dns_in_cloudflare.md)
 4. [Взаимодействие с собственным почтовым сервером](./interact_with_mailserver.md)
+5. [Обновление ssl сертификатов](./update_ssl_security.md)
 
 Полезные ссылки:
 

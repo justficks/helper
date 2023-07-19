@@ -12,6 +12,7 @@
 - [Бэкап графаны](./backup_grafana.md)
 - [Смена пароля у admin в Grafana](./edit_grafana_admin_password.md)
 - [Установка собственного email-сервера с docker-mailserver и cloudflare](./own_mail_server/index.md)
+- [Добавление и настройка реле aubess mini smart switch с чипом BK7231N](./aubess_BK7231N/index.md)
 
 ---
 

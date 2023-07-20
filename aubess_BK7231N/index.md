@@ -24,3 +24,11 @@
 <img src="./hm-mqtt-device.png" width="100%" height="400" />
 
 7. Всё. Готово. Проверяйте, меняйте название. Выводите на главный экран и т.д.
+
+## Вывод потребляемой энергии [Откуда взял инфу](https://www.elektroda.com/rtvforum/viewtopic.php?p=20266899#20266899)
+
+1. Переходим в настройки датчика
+2. Config -> Change Startup Command Text
+3. Вводим вот такую команду:
+   <img src="./power-monitor.png" width="100%" height="100" />
+4. Рестартим датчик

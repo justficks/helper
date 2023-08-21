@@ -14,6 +14,9 @@
 - [Установка собственного email-сервера с docker-mailserver и cloudflare](./own_mail_server/index.md)
 - [Добавление и настройка реле aubess mini smart switch с чипом BK7231N](./aubess_BK7231N/index.md)
 - [Установка KVM на ubuntu server + cockpit и управление Virtual Machines](./install-qemu-kvm-cockpit.md)
+- [Настройка wireguard клиент для твоих VPS](./setup_wg_2_vps/index.md)
+- [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
+- [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
 
 ---
 
@@ -31,9 +34,7 @@
 - [Postgres Replication Slot](https://habr.com/ru/post/245847/)
 - [No-code конструктор сайтов](https://grapesjs.com/docs/#quick-start)
 - [Как использовать интернет через телефон на Mac](https://www.iguides.ru/blogs/lwmac/as-unlimited-access-to-mobile-internet-on-macos/)
-- [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
 - [minidlna домашний медиа сервер](https://habr.com/ru/articles/555212/)
-- [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
 - [Software engineer](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)
 - [roadmap.sh - Путь обучения и технологии](https://roadmap.sh)
 - [pactumJS - тестирование по всем фронтам](https://pactumjs.github.io)

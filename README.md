@@ -17,6 +17,7 @@
 - [Настройка wireguard клиент для твоих VPS](./setup_wg_2_vps/index.md)
 - [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
 - [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
+- [Полезные команды по linux](./linux_actions.md)
 
 ---
 

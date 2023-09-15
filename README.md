@@ -18,6 +18,7 @@
 - [Подключение машины с ubuntu server и подключенным USB WiFi Adapter к wifi сети](./setup_wifi_connection_on_linux.md)
 - [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
 - [Полезные команды по linux](./linux_actions.md)
+- [Установка Open GApps в контейнер redroid](./redroid-gapps/index.md)
 
 ---
 

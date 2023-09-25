@@ -19,6 +19,7 @@
 - [Ограничение доступа к MongoDB](./restrict_mongodb_access_docker.md)
 - [Полезные команды по linux](./linux_actions.md)
 - [Установка Open GApps в контейнер redroid](./redroid-gapps/index.md)
+- [Подключение rfid\\nfc считыватель в Home Assistant](./home_assistant_rfid_nfc_reader.md)
 
 ---
 

@@ -20,6 +20,7 @@
 - [Полезные команды по linux](./linux_actions.md)
 - [Установка Open GApps в контейнер redroid](./redroid-gapps/index.md)
 - [Подключение rfid\\nfc считыватель в Home Assistant](./home_assistant_rfid_nfc_reader.md)
+- [Счетчик воды в Home Assistant](./water_counter_home_assistant.md)
 
 ---
 

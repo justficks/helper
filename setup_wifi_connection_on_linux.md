@@ -132,10 +132,48 @@ network:
 sudo netplan apply
 ```
 
-- И перезагружаем сервер через reboot
-
 ---
 
-### Дополнительная ссылка на настройку wpa_supplicant. Может пригодиться:
+### Далее настраиваем wpa_supplicant:
 
-https://www.youtube.com/watch?v=bhvcIni71T8
+Источник: https://www.youtube.com/watch?v=bhvcIni71T8
+
+```bash
+wpa_passphrase "TP-Link" 12345678
+
+# Output:
+#
+# network={
+# 	ssid="TP-Link"
+# 	#psk="12345678"
+# 	psk=osadif1j9280fj10928fj8037hjf8qsodjf08q8jwf80qw7jfq80
+# }
+```
+
+```bash
+nano /etc/wpa_supplicant/ssid.conf
+
+# Вносим в файл:
+#
+# ctrl_interface=/run/wpa_supplicant
+# update_config=1
+# network={
+# 	ssid="TP-Link"
+# 	#psk="12345678"
+# 	psk=osadif1j9280fj10928fj8037hjf8qsodjf08q8jwf80qw7jfq80
+# }
+```
+
+```bash
+killall wpa_supplicant
+```
+
+```bash
+wpa_supplicant -B -i wlxa0d76831406d -C /etc/wpa_supplicant/ssid.conf
+```
+
+```bash
+dhclient -v wlxa0d76831406d
+```
+
+- И перезагружаем сервер через reboot

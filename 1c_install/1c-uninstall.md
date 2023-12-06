@@ -29,7 +29,7 @@ rm -r /home/usr1cv8
 5. Удаляем файл старта 1с сервиса:
 
 ```
-rm /etc/init.d/srv1cv83
+rm /lib/systemd/system/srv1cv8.service
 ```
 
 6. Удаляем пользователя 1с:

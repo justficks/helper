@@ -13,6 +13,12 @@ tar -xzvf server64_8_3_21_1484.tar.gz
 2. Запускаем процесс установки:
 
 ```
+./setup-full-8.3.21.1484-x86_64.run
+```
+
+Есть ещё вариант ниже, но у меня он завершился с ошибкой
+
+```
 ./setup-full-8.3.21.1484-x86_64.run --mode unattended --enable-components server,ws,server_admin
 ```
 

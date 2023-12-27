@@ -47,3 +47,4 @@
 - [XRay client for macos](https://github.com/abbasnaqdi/nekoray-macos/releases)
 - [OpenTSDB](https://github.com/OpenTSDB/opentsdb)
 - [Создание документации к API](https://docusaurus.io)
+- [MongoDump & MongoRestore](https://dev.to/mkubdev/mongodump-and-mongorestore-with-docker-39m7)

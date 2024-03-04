@@ -23,6 +23,7 @@
 - [Счетчик воды в Home Assistant](./water_counter_home_assistant.md)
 - [Get premium from Lago](./lago_hack_premium.md)
 - [MongoDump & MongoRestore](./mongodump_mongorestore.md)
+- [Скрипт запуска docker контейнера для генерации сертификатов через cloudflare API](./certbot_script.md)
 
 ---
 

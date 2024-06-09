@@ -24,6 +24,7 @@
 - [Get premium from Lago](./lago_hack_premium.md)
 - [MongoDump & MongoRestore](./mongodump_mongorestore.md)
 - [Скрипт запуска docker контейнера для генерации сертификатов через cloudflare API](./certbot_script.md)
+- [OpenProject Enterprise mode](./openproject.hack.md)
 
 ---
 
@@ -50,3 +51,4 @@
 - [OpenTSDB](https://github.com/OpenTSDB/opentsdb)
 - [Создание документации к API](https://docusaurus.io)
 - [MongoDump & MongoRestore](https://dev.to/mkubdev/mongodump-and-mongorestore-with-docker-39m7)
+- [GHost - личный новостной блог](https://ghost.org)

@@ -25,6 +25,7 @@
 - [MongoDump & MongoRestore](./mongodump_mongorestore.md)
 - [Скрипт запуска docker контейнера для генерации сертификатов через cloudflare API](./certbot_script.md)
 - [OpenProject Enterprise mode](./openproject.hack.md)
+- [Access to mongodb database inside docker container on remote server](./mongodb_remote_access.md)
 
 ---
 

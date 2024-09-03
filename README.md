@@ -27,6 +27,8 @@
 - [OpenProject Enterprise mode](./openproject.hack.md)
 - [Access to mongodb database inside docker container on remote server](./mongodb_remote_access.md)
 - [AT commands to GSM USB modem](./at_commandt.md)
+- [Защита web приложения через сертификаты\ключи](./secure-web-app/index.md)
+
 ---
 
 ### Useful links
